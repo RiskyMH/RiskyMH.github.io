@@ -3279,6 +3279,11 @@ button:disabled,
     padding-top: 20px;
 }
 
+.features article .image .circle-crop {
+    overflow: hidden;
+        border-radius: 50%;
+}
+
 a.disabled {
     /* cursor: default !important;
     pointer-events: none !important; */
